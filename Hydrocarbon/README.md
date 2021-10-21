@@ -12,6 +12,7 @@ void hydrocarbon (int c, int h);
 ```
 
 ## Run 
+[**Run online**](http://cpp.sh/87uu2)
 
 Download and run
 
