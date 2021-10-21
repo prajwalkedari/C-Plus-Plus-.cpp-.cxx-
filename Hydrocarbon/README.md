@@ -1,3 +1,4 @@
+
 # Hydrocarbon 
 
 This is Program in C Plus Plus (.cpp) language. This Program give information about only and only  hydrocarbon compound . hydrocarbon is also known as Organic Chemistry . This program show   compound is alkane , alkene ,alkyne or alkyle and Give about information saturated Property . also, show  the no. Carbon  bond between carbon . The print Compound name  like (eg:- methane , ethene ...etc) 
@@ -19,7 +20,7 @@ Download and run
 Using G++ (mingw)
 
 ``` bash
-$  cd  path/to /folders
+$ cd  path/to/folders
 $ git clone https://github.com/prajwalkedari/CPP-.cpp/Hydrocarbon/
 $ g++ ./hydrocarbon.cpp
 $ ./a.out
