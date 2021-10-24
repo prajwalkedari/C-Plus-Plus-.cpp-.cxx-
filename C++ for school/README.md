@@ -36,7 +36,7 @@ it return distance in **CM**
 this project can able to convert  meter to km
   just enter **Meter**
   program convert to **Km**
-## Run Locally (in Your Op)
+## Run Locally (in Your PC)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
