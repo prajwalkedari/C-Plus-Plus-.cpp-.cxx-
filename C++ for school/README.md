@@ -70,10 +70,10 @@ Run (using g++ compiler)/ other wise your ways now
 ## Demo (online on Browser)
 
 
- #### aera_of_square.cpp => [Run](https://cpp.sh/5siaui)
+ #### aera_of_square.cpp => [Run](http://cpp.sh/5siaui)
  #### area_circle.cpp => [Run](http://cpp.sh/5jyphp)
  #### area_right_triangle.cpp => [Run](http://cpp.sh/7wxpg)
- #### circumference_circle.cpp => [Run](https://cpp.sh/6xkyy)
+ #### circumference_circle.cpp => [Run](http://cpp.sh/6xkyy)
  #### km_to_meter.cpp => [Run](http://cpp.sh/4vo46n)
  #### measure_distance_co_ordinate.cpp => [Run](http://cpp.sh/7y67e)
  #### meter_to_km.cpp  => [Run](http://cpp.sh/84hgnr)
