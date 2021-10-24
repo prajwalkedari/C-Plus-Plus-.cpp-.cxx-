@@ -57,7 +57,7 @@ Clone the project (download project)
 Go to the project directory (goto inside folder)
 
 ```bash
-  cd CPP-.cpp/C++ for School
+  cd CPP-.cpp/C++\ for\ School/
 ```
 
 Run (using g++ compiler)/ other wise your ways now
